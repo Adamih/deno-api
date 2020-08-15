@@ -6,10 +6,10 @@ command: `deno run --allow-read --allow-net main.ts`
 
 ## Endpoint
 
-* `localhost:8000/dinosaur`
+* `http://localhost:8000/dinosaur`
   * GET
   * POST
-* `localhost:8000/dinosaur/:id`
+* `http://localhost:8000/dinosaur/:id`
   * PUT
   * DELETE
 
