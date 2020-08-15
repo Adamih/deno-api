@@ -2,7 +2,7 @@
 
 ## Start deno 🚀
 
-command: `deno run --allow-read --allow-net main.ts`
+`deno run --allow-read --allow-net main.ts`
 
 ## Endpoints 🚪
 
