@@ -17,7 +17,7 @@ Do you really need anything more? I didn't think so.
 
 ## Anatomy of a denosaur
 
-No 2 dinosaur look the same, the visual element combined with it's name is required to really capture it's personality.
+No two dinosaurs look the same. The visual element combined with it's name is required to really capture it's personality.
 
 example: 
 ```json
