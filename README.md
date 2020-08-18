@@ -2,7 +2,7 @@
 
 ## Start deno 🚀
 
-command: `deno run --allow-read --allow-net main.ts`
+`deno run --allow-read --allow-net main.ts`
 
 ## Endpoints 🚪
 
@@ -25,6 +25,5 @@ example:
 {
   "name": "Denver",
   "img": "https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png",
-  "id": "cc3ac624-a239-48b8-b5cd-d842560d950e"
 }
 ```
