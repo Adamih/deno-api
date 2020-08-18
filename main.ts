@@ -5,9 +5,9 @@ import Router from "./routes.ts";
 import { logging, timing } from "./utils/logging.ts";
 import { errorHandler } from "./utils/errorHandler.ts";
 
-const port = 8000;
-
 const env = config();
+
+const port = 8000;
 
 const app = new Application();
 
